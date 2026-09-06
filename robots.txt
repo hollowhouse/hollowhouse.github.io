@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hollowhouse.github.io/sitemap.xml
+Sitemap: https://hollowhouse.github.io/Hollow-House/sitemap.xml
+Sitemap: https://hollowhouse.github.io/Hollow-House/video-sitemap.xml
